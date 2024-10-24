@@ -5,8 +5,9 @@ OOT는 객체 지향 프로그래밍의 원칙을 적용한 디지털 교과서�
 # 기술 스택
 - 프론트엔드: Node.js
 - 백엔드: Node.js
-- 데이터베이스: MySQL
-- 결제 시스템:
+- 데이터베이스: MongoDB
+- 사용자 인증: Firebase Authentication
+- 결제 시스템: (미정) KG Inicis, KCP, Toss Payments 등
 
 # 주요 기능
 ## 클래스, 객체
